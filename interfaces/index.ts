@@ -1,0 +1,6 @@
+export * from "./IProduct"
+export * from "./ICart"
+export * from "./IUser"
+export * from "./IOrder"
+export * as IPaypal from "./IPaypal"
+export *  from "./dashboard"
